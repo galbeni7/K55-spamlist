@@ -110,7 +110,7 @@ export default {
 
                     </p>
                     <p>
-                        You must have a Corsair K55 RGB/RGB Pro/Core RGB. (The only exception is the Revival Series, for people who may not be able to afford the others.) If you do not want to buy those options, this rule is not applied as long as you have a keyboard that has a debounce of 30ms or more. (If you do not know your debounce, use this website.)
+                        You must have a Corsair K55 RGB/RGB Pro/Core RGB, or K70. (The only exception is the Revival Series, for people who may not be able to afford the others.) If you do not want to buy those options, this rule is not applied as long as you have a keyboard that has a debounce of 30ms or more. (If you do not know your debounce, use this website. https://clickspeedtester.com/keyboard-latency-test)
 
                     </p>
                     <p>
