@@ -100,28 +100,30 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        The level must be all spam based. You are allowed to put a triple spike or an easy timing at the end or beginning.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        No consistency challenges. It must be more cps based than click patterns!
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        You are not allowed to copy someone else's challenge to buff/extend, without permission of the original creator! (There are certain exceptions to this rule)
+
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        You must have a Corsair K55 RGB/RGB Pro/Core RGB. (The only exception is the Revival Series, for people who may not be able to afford the others.) If you do not want to buy those options, this rule is not applied as long as you have a keyboard that has a debounce of 30ms or more. (If you do not know your debounce, use this website.)
+
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        The lowest respawn time value allowed for challenges is 0.5 (vanilla is 1).
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        We will refuse to add your level if you include any hateful things in it such as offensive words or hate symbols (N word, swastikas etc.)
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                         A maximum of 2 inputs are allowed when spamming. 
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        All challenges must take some amount of effort, ask me first if you’re unsure.
                     </p>
                 </div>
             </div>
