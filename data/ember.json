@@ -1,0 +1,18 @@
+{
+    "id": 67817078,
+    "name": "Ember",
+    "author": "MeowPau",
+    "creators": [],
+    "verifier": "MeowPau",
+    "verification": "https://www.youtube.com/watch?v=jQwb5E-91wk",
+    "percentToQualify": "100",
+    "hz": 300,
+    "records": [
+        {
+        "user": "Sum",
+        "link": "https://www.youtube.com/watch?v=SbPYIXHh-R4",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
