@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "hz": 300,
     "records": [
+        {
+        "user": "MM9000",
+        "link": "https://discord.com/channels/1405036850803904584/1405292805768740965/1405566766318489630",
+        "hz": "300",
+        "percent": 100
+        }
     ]
 }
