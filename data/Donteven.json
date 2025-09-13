@@ -5,8 +5,14 @@
     "creators": [],
     "verifier": "Sum",
     "verification": "https://www.youtube.com/watch?v=OZIc5sS6Y3U",
-    "percentToQualify": "100",
+    "percentToQualify": "60",
     "hz": 300,
     "records": [
+        {
+        "user": "bbb4",
+        "link": "https://www.youtube.com/watch?v=K1fB-faCpXY",
+        "hz": "300",
+        "percent": 80
+        }
     ]
 }
