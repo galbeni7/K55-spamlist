@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "hz": 100,
     "records": [
+         {
+        "user": "bbb4",
+        "link": "https://www.youtube.com/watch?v=K1fB-faCpXY",
+        "hz": "300",
+        "percent": 100
+        }
     ]
 }
