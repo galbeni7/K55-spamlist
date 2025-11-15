@@ -114,7 +114,10 @@ export default {
 
                     </p>
                     <p>
-                        The lowest respawn time value allowed for challenges is 0.5 (vanilla is 1).
+                        The lowest respawn time value allowed for challenges is 0.25 (vanilla is 1).
+                    </p>
+                    <p>
+                        Minimum FPS is 66.67, while the maximum is 300.
                     </p>
                     <p>
                         We will refuse to add your level if you include any hateful things in it such as offensive words or hate symbols (N word, swastikas etc.)
