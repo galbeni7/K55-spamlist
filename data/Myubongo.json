@@ -8,9 +8,15 @@
     "percentToQualify": "100",
     "hz": 300,
     "records": [
-         {
+        {
         "user": "AllOnRed",
         "link": "https://www.youtube.com/watch?v=LpU5I-nxkIw",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "9tn",
+        "link": "https://www.youtube.com/watch?v=rmtbmhyrUQM",
         "hz": "300",
         "percent": 100
         }
