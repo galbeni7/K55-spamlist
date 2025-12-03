@@ -1,0 +1,18 @@
+{
+    "id": 67219077,
+    "name": "Ubongo",
+    "author": "ttsum",
+    "creators": [],
+    "verifier": "Sum",
+    "verification": "https://www.youtube.com/watch?v=JE0_ZyDXF-c",
+    "percentToQualify": "100",
+    "hz": 300,
+    "records": [
+        {
+        "user": "AllOnRed",
+        "link": "https://youtu.be/9Egdu41_VSo?si=7Uxwmsq-BVTNVGY3&t",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
