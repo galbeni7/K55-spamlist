@@ -1,0 +1,18 @@
+{
+    "id": 71883741,
+    "name": "2000 Subscribers",
+    "author": "ttsum",
+    "creators": [],
+    "verifier": "Sum",
+    "verification": "https://www.youtube.com/watch?v=O9AuhS5cLLQ",
+    "percentToQualify": "100",
+    "hz": 300,
+    "records": [
+        {
+        "user": "AllOnRed",
+        "link": "https://www.youtube.com/watch?v=9Egdu41_VSo",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
