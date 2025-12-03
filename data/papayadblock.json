@@ -1,0 +1,18 @@
+{
+    "id": 124701688,
+    "name": "PAPAYA 2",
+    "author": "ttsum",
+    "creators": [],
+    "verifier": "Sum",
+    "verification": "https://youtu.be/9Egdu41_VSo?si=7Uxwmsq-BVTNVGY3&t=4",
+    "percentToQualify": "100",
+    "hz": 300,
+    "records": [
+        {
+        "user": "AllOnRed",
+        "link": "https://youtu.be/9Egdu41_VSo?si=7Uxwmsq-BVTNVGY3&t=4",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
