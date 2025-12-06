@@ -8,10 +8,5 @@
     "percentToQualify": "100",
     "fps": 66.67,
     "records": [
-        {
-        "user": "bill gates",
-        "hz": "66.67",
-        "percent": 100
-        }
     ]
 }
