@@ -6,7 +6,7 @@
     "verifier": "Firenox",
     "verification": "https://www.youtube.com/watch?v=hkuglskujglsk",
     "percentToQualify": "100",
-    "hz": 300,
+    "fps": 300,
     "records": [
         {
         "user": "AllOnRed",
