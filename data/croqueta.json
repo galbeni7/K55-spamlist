@@ -6,7 +6,7 @@
     "verifier": "Needles",
     "verification": "https://www.youtube.com/watch?v=DxLke3fG1FM",
     "percentToQualify": "100",
-    "hz": 300,
+    "fps": 300,
     "records": [
         {
         "user": "AllOnRed",
