@@ -6,7 +6,7 @@
     "verifier": "Sum",
     "verification": "https://youtu.be/9Egdu41_VSo?si=7Uxwmsq-BVTNVGY3&t=4",
     "percentToQualify": "100",
-    "hz": 300,
+    "fps": 300,
     "records": [
         {
         "user": "AllOnRed",
