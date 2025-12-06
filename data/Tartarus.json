@@ -3,28 +3,28 @@
     "name": "Tartarus",
     "author": "PaperGuy",
     "creators": ["9tn"],
-    "verifier": "PaperGuy",
-    "verification": "https://www.youtube.com/watch?v=4tB_GheHHeg",
+    "verifier": "Sum",
+    "verification": "https://www.youtube.com/watch?v=y8JDlLVP4xE",
     "percentToQualify": "100",
     "fps": 300,
     "records": [
-        {
-        "user": "Sum",
-        "link": "https://www.youtube.com/watch?v=y8JDlLVP4xE",
-        "hz": "300",
-        "percent": 100
-        },
-        {
-        "user": "9tn",
-        "link": "https://www.youtube.com/watch?v=rmtbmhyrUQM",
-        "hz": "300",
-        "percent": 100
-        },
-        {
-        "user": "ywuChaos",
-        "link": "https://youtu.be/rkWk1TgZXag",
-        "hz": "300",
-        "percent": 100
-        }
+      {
+      "user": "9tn",
+      "link": "https://youtu.be/rmtbmhyrUQM?t=166",
+      "hz": "300",
+      "percent": 100
+      },
+      {
+      "user": "PaperGuy",
+      "link": "https://youtu.be/4tB_GheHHeg",
+      "hz": "300",
+      "percent": 100
+      },
+      {
+      "user": "ywuChaos",
+      "link": "https://www.youtube.com/watch?v=rkWk1TgZXag&t=283s",
+      "hz": "300",
+      "percent": 100
+      }
     ]
 }
