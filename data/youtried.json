@@ -6,7 +6,7 @@
     "verifier": "Pixel",
     "verification": "https://discord.com/channels/1405036850803904584/1405291904987566141/1405409052019654739",
     "percentToQualify": "100",
-    "hz": 300,
+    "fps": 300,
     "records": [
         {
         "user": "MM9000",
