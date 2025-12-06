@@ -15,8 +15,13 @@
         "percent": 100
         },
         {
+<<<<<<< HEAD
         "user": "ywuChaos",
         "link": "https://youtu.be/rkWk1TgZXag",
+=======
+        "user": "AllOnRed",
+        "link": "https://www.youtube.com/watch?v=9Egdu41_VSo",
+>>>>>>> 5e7ad551d1a01929b7aecea3b3fc48a19f8518e4
         "hz": "300",
         "percent": 100
         }
