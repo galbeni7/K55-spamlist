@@ -6,7 +6,7 @@
     "verifier": "AllOnRed",
     "verification": "https://www.youtube.com/watch?v=ql0zPM3Ez5A",
     "percentToQualify": "100",
-    "hz": 300,
+    "fps": 300,
     "records": [
         {
         "user": "9tn",
