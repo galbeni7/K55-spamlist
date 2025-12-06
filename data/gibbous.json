@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": 66.67,
     "records": [
+        {
+        "user": "ywuChaos",
+        "link": "https://www.youtube.com/watch?v=8CttwBz0tKk",
+        "hz": "300",
+        "percent": 100
+        }
     ]
 }
