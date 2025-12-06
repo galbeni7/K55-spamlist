@@ -126,7 +126,7 @@ export default {
                          A maximum of 2 inputs are allowed when spamming. 
                     </p>
                     <p>
-                        All challenges must take some amount of effort, ask me first if you’re unsure.
+                        All challenges must take some amount of effort, ask one of us first if you’re unsure.
                     </p>
                 </div>
             </div>
