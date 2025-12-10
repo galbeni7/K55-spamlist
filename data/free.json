@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": 300,
     "records": [
+        {
+        "user": "Shafikdabest",
+        "link": "https://www.youtube.com/watch?v=DEAC_3xmKhE",
+        "hz": "300",
+        "percent": 100
+        }
     ]
 }
