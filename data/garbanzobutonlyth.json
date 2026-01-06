@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": 300,
     "records": [
+        {
+        "user": "trasp",
+        "link": "https://youtu.be/w0sEVwCv7_w",
+        "hz": "300",
+        "percent": 100
+        }
     ]
 }
