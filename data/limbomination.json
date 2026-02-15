@@ -1,0 +1,18 @@
+{
+    "id": 67041839,
+    "name": "Limbomination",
+    "author": "Needless",
+    "creators": ["Pla"],
+    "verifier": "Needles",
+    "verification": "https://youtu.be/uME8xhb7BmA?si=VeDAk9XlnemwfKA-",
+    "percentToQualify": "100",
+    "fps": 300,
+    "records": [
+        {
+        "user": "minusclub",
+        "link": "https://www.youtube.com/watch?v=UknrRlUPJt0&feature=youtu.be",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
