@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": 300,
     "records": [
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1481444209717285055",
+        "hz": "300",
+        "percent": 100
+        }
     ]
 }
