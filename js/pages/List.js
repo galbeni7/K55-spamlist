@@ -128,6 +128,9 @@ export default {
                     <p>
                         All challenges must take some amount of effort, ask one of us first if you’re unsure.
                     </p>
+                    <p>
+                        Toxic Blades treatment is not allowed. (For example: getting 65% on a level, then deleting everything after 65% and labeling it as verification)
+                    </p>
                 </div>
             </div>
         </main>
