@@ -3,20 +3,20 @@
     "name": "Ubongo",
     "author": "AllOnRed777",
     "creators": [],
-    "verifier": "Needless",
-    "verification": "https://www.youtube.com/watch?v=z-Zpff-hAwI",
+    "verifier": "Sum",
+    "verification": "https://www.youtube.com/watch?v=JE0_ZyDXF-c",
     "percentToQualify": "100",
     "fps": 300,
     "records": [
         {
-        "user": "Sum",
-        "link": "https://www.youtube.com/watch?v=JE0_ZyDXF-c",
-        "hz": "300",
-        "percent": 100
-        }
-        {
         "user": "AllOnRed",
         "link": "https://youtu.be/9Egdu41_VSo",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://www.youtube.com/watch?v=MVuldewleH0",
         "hz": "300",
         "percent": 100
         }
