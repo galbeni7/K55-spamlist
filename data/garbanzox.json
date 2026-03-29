@@ -1,0 +1,18 @@
+{
+    "id": 64865431,
+    "name": "Garbanzo X",
+    "author": "Needless",
+    "creators": ["Needless", "V453C70M14", "DrCuber"],
+    "verifier": "Needles",
+    "verification": "https://www.youtube.com/watch?v=8wkf_cgrlQg",
+    "percentToQualify": "100",
+    "fps": 300,
+    "records": [
+        {
+        "user": "AllOnRed",
+        "link": "https://www.youtube.com/watch?v=Vai9K5RngF8",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}

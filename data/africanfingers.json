@@ -1,0 +1,18 @@
+{
+    "id": 67086849,
+    "name": "African Fingers",
+    "author": "Needless",
+    "creators": ["pla"],
+    "verifier": "Needles",
+    "verification": "https://www.youtube.com/watch?v=YIQsrnuBHy0",
+    "percentToQualify": "100",
+    "fps": 300,
+    "records": [
+        {
+        "user": "random",
+        "link": "https://www.youtube.com/watch?v=y47WE9ix33g",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}
