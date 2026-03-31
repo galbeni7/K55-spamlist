@@ -45,10 +45,16 @@
         "percent": 100
         },
         {
-            "user": "aelzfr",
-            "link": "https://youtube.com/clip/UgkxNJ-wYxvDeZs5E9lNmMiNFe8SbatKmiFt?si=4UaImbSdDc5JOSfg",
-            "hz": "300",
-            "percent": 100
+        "user": "aelzfr",
+        "link": "https://youtube.com/clip/UgkxNJ-wYxvDeZs5E9lNmMiNFe8SbatKmiFt?si=4UaImbSdDc5JOSfg",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "jost",
+        "link": "https://www.youtube.com/watch?v=_V8O_JbmPXE",
+        "hz": "300",
+        "percent": 100
         }
     ]
 }
