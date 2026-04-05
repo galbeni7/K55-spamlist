@@ -10,6 +10,11 @@
         "link": "https://www.youtube.com/@galbeni7"
     },
     {
+        "role": "admin",
+        "name": "Blighted",
+        "link": "https://www.youtube.com/@Blightedcoconut"
+    },
+    {
         "role": "helper",
         "name": "9tn",
         "link": "https://www.youtube.com/@9tngd"
@@ -21,17 +26,22 @@
     },
     {
         "role": "helper",
-        "name": "aelzfr",
-        "link": "https://www.youtube.com/@aelzfr"
-    },
-    {
-        "role": "helper",
         "name": "PaperGuy",
         "link": "https://www.youtube.com/@PaperGuy_"
     },
     {
         "role": "helper",
-        "name": "Blighted",
-        "link": "https://www.youtube.com/@Blightedcoconut"
+        "name": "jost",
+        "link": "https://www.youtube.com/@jostgd"
+    },
+    {
+        "role": "helper",
+        "name": "Lightning",
+        "link": "https://www.youtube.com/@Lightningproplaysgames"
+    },
+    {
+        "role": "helper",
+        "name": "Random",
+        "link": "https://www.youtube.com/@banananbrogd"
     }
 ]
