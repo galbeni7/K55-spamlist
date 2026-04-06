@@ -9,6 +9,12 @@
     "fps": 300,
     "records": [
         {
+        "user": "Sum",
+        "link": "https://youtu.be/vXQhspmOC0I?t=12",
+        "hz": "300",
+        "percent": 100
+        },
+        {
         "user": "9tn",
         "link": "https://www.youtube.com/watch?v=rmtbmhyrUQM",
         "hz": "300",
