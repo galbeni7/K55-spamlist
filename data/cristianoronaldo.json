@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": 300,
     "records": [
+        {
+            "user": "9tn",
+            "link": "https://www.youtube.com/watch?v=JKcTSWnoyYc",
+            "hz": "300",
+            "percent": 100
+        }
     ]
 }

@@ -1,4 +1,4 @@
-{
+ű{
     "id": 67278115,
     "name": "AfK",
     "author": "tapdot33",
@@ -19,6 +19,12 @@
         "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1485412201995960423",
         "hz": "300",
         "percent": 100
+        },
+        {
+            "user": "9tn",
+            "link": "https://www.youtube.com/watch?v=JKcTSWnoyYc",
+            "hz": "300",
+            "percent": 100
         }
     ]
 }
