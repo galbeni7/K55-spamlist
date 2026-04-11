@@ -103,6 +103,9 @@ export default {
                         The level must be all spam based. You are allowed to put a triple spike or an easy timing at the end or beginning.
                     </p>
                     <p>
+                        You must have audible clicks in your completions.
+                    </p>
+                    <p>
                         No consistency challenges. It must be more cps based than click patterns!
                     </p>
                     <p>
@@ -110,14 +113,14 @@ export default {
 
                     </p>
                     <p>
-                        You must have a Corsair K55 RGB/RGB Pro/Core RGB, or K70. (The only exception is the Revival Series, for people who may not be able to afford the others.) If you do not want to buy those options, this rule is not applied as long as you have a keyboard that has a debounce of 30ms or more. (If you do not know your debounce, use this website. https://clickspeedtester.com/keyboard-latency-test)
+                        You must have a Corsair K55 RGB/RGB Pro, or K70. Make sure to not purchase the K55 Core as it doesn't have the cap. (The only exception is the Revival Series, for people who may not be able to afford the others.) If you do not want to buy those options, this rule is not applied as long as you have a keyboard that has a debounce of 30ms or more. (If you do not know your debounce, use this website. https://clickspeedtester.com/keyboard-latency-test)
 
                     </p>
                     <p>
                         The lowest respawn time value allowed for challenges is 0.25 (vanilla is 1).
                     </p>
                     <p>
-                        Minimum FPS is 66.67, while the maximum is 300.
+                        Minimum FPS is 66.67, while the maximum is 300. CBF is not allowed.
                     </p>
                     <p>
                         We will refuse to add your level if you include any hateful things in it such as offensive words or hate symbols (N word, swastikas etc.)
@@ -126,10 +129,10 @@ export default {
                          A maximum of 2 inputs are allowed when spamming. 
                     </p>
                     <p>
-                        All challenges must take some amount of effort, ask one of us first if you’re unsure.
+                        All levels starting 10th of April 2026 must have a bit of decoration in it. Some example levels to look at are Easy Challenge or Gibbous for our standards. You must also take effort in your level to prevent low quality submissions. Ask us if you're unsure.
                     </p>
                     <p>
-                        Toxic Blades treatment is not allowed. (For example: getting 65% on a level, then deleting everything after 65% and labeling it as verification)
+                        "Toxic Blades treatment" is not allowed. (For example: getting 65% on a level, then deleting everything after 65% and labeling it as verification)
                     </p>
                 </div>
             </div>
