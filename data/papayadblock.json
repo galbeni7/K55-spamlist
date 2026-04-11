@@ -9,6 +9,12 @@
     "fps": 300,
     "records": [
         {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=KxBda-UpqEo",
+        "hz": "300",
+        "percent": 100
+        },
+        {
         "user": "AllOnRed",
         "link": "https://youtu.be/9Egdu41_VSo?si=7Uxwmsq-BVTNVGY3&t=4",
         "hz": "300",
