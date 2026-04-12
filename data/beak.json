@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "fps": 300,
     "records": [
+        {
+        "user": "tFluffy",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492813158707105894",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492917741999357983",
+        "hz": "300",
+        "percent": 100
+        }
     ]
 }
