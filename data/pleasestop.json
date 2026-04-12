@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": 300,
     "records": [
+        {
+        "user": "ywuChaos",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492681345938489404",
+        "hz": "300",
+        "percent": 100
+        }
     ]
 }
