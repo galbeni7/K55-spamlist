@@ -1,5 +1,5 @@
 {
-    "id": 138344005,
+    "id": 138517026,
     "name": "TCD Challenge",
     "author": "SpamCL",
     "creators": ["minusclub"],
@@ -8,11 +8,5 @@
     "percentToQualify": "100",
     "fps": 300,
     "records": [
-        {
-        "user": "galbeni7",
-        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1494786795580162271",
-        "hz": "300",
-        "percent": 100
-        }
     ]
 }
