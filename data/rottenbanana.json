@@ -27,10 +27,16 @@
         "percent": 100
         },
         {
-            "user": "9tn",
-            "link": "https://www.youtube.com/watch?v=JKcTSWnoyYc",
-            "hz": "300",
-            "percent": 100
+        "user": "9tn",
+        "link": "https://www.youtube.com/watch?v=JKcTSWnoyYc",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "Idk",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1527778842989690920",
+        "hz": "300",
+        "percent": 100
         }
     ]
 }
